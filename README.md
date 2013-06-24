@@ -1,4 +1,4 @@
-wimster.github.com
+wimster.nl
 ==================
 
 Personal Blog
